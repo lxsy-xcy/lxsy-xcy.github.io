@@ -1,7 +1,7 @@
 # Site settings
 title: Lxsy
 SEOTitle: lxsy的博客 | Lxsy Blog
-header-img: {{ site.baseurl }}/img/favicon.ico
+header-img: img/home-bg.jpg
 email: lxsy31084573@163.com
 description: "关于创造 | lxsy，All about creating | 这里是 @lxsy 的个人博客，与你一起发现更大的世界。"
 keyword: "lxsy, 博客, 个人网站, CS"
