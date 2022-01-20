@@ -1,5 +1,5 @@
 # Site settings
-title: Lxsy Blog
+title: Lxsy
 SEOTitle: lxsy的博客 | Lxsy Blog
 header-img: img/home-bg.jpg
 email: lxsy31084573@163.com
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     
-zhihu_username:     
+weibo_username:     false
+zhihu_username:     false
 github_username:    lxsy-xcy
-twitter_username:   
+twitter_username:   false
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: false
 
 # Netease settings
 netease_comment: false
@@ -70,9 +70,7 @@ netease_comment: false
 # Baidu Analytics 
 # ba_track_id: [your track id]
 
-# Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+
 
 
 
@@ -103,11 +101,8 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "乱序（Midare）",
-        href: "http://mida.re/"
+        title: "四十二",
+        href: "https://abyss-42.github.io/"
     },{
         title: "Sherry Woo",
         href: "https://sherrywoo.me/"
