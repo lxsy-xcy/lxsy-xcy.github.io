@@ -76,7 +76,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "林胥失月<br>有趣因子收集家<br>CS学生<br>热爱一切与创造有关的事情"
+sidebar-about-description: "林胥失月<br>有趣因子收集家<br>CS学生<br>热爱一切与创造有关的事情<br>email:lxsy31084573@163.com<br>"
 sidebar-avatar: https://s4.ax1x.com/2022/01/20/7cz0cd.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
