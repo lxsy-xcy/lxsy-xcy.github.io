@@ -14,7 +14,7 @@ tags:
 
 非常搞笑，今天想打开chrome发现开不了，弹出这样的提示
 
-![image-20220124142023174](lxsy-xcy.github.io\_posts\2022-01-24-chrome-bug.assets\image-20220124142023174.png)
+![image-20220124142023174](2022-01-24-chrome-bug.assets\image-20220124142023174.png)
 
 搜索了下这个应用程序的并行配置不正确，看了网上一些方式，我一脸略懂略懂，然后照做
 
