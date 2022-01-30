@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://lxsy-xcy.github.io/</loc>
+  <lastmod>2022-01-30T10:12:34+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://lxsy-xcy.github.io/about/</loc>
+  <lastmod>2022-01-30T10:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lxsy-xcy.github.io/archive/</loc>
+  <lastmod>2022-01-30T10:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lxsy-xcy.github.io/2022/01/24/chrome-bug/</loc>
+  <lastmod>2022-01-30T10:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lxsy-xcy.github.io/2022/01/20/cs50-lab8/</loc>
+  <lastmod>2022-01-30T10:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lxsy-xcy.github.io/2022/01/20/something-about-this-website/</loc>
+  <lastmod>2022-01-30T10:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lxsy-xcy.github.io/2022/01/20/hello-world/</loc>
+  <lastmod>2022-01-30T10:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lxsy-xcy.github.io/archive/?tag=Web</loc>
+  <lastmod>2022-01-30T10:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lxsy-xcy.github.io/archive/?tag=%E8%BD%AF%E4%BB%B6%E9%97%AE%E9%A2%98</loc>
+  <lastmod>2022-01-30T10:12:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lxsy-xcy.github.io/archive/?tag=CS50</loc>
+  <lastmod>2022-01-30T10:12:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lxsy-xcy.github.io/archive/?tag=%E7%A2%8E%E7%A2%8E%E5%BF%B5</loc>
+  <lastmod>2022-01-30T10:12:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
