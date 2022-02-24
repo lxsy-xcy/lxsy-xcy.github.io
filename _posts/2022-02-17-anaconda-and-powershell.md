@@ -17,7 +17,7 @@ tags:
 
 之前一直使用powershell作为我的terminal。
 
-在vscode上，我已经选定了我的conda环境，并且没有报错包吧不存在的问题，然而，在powershell中用命令行方式执行时，却一直报错没有sklearn库
+在vscode上，我已经选定了我的conda环境，并且没有报错包不存在的问题，然而，在powershell中用命令行方式执行时，却一直报错没有sklearn库
 
 在经历了反复的删除重装库之后，仍然没有解决问题
 
