@@ -10,6 +10,7 @@ tags:
   - python
   - 环境配置
   - anaconda
+  - powershell
 
 
 
