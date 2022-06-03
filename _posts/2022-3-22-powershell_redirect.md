@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "powershell输入流重定向问题"
-subtitle:   "powershell redirectionn"
+subtitle:   "powershell redirection"
 date:       2022-03-22 23:30:00
 author:     "Lxsy"
 catalog: false
